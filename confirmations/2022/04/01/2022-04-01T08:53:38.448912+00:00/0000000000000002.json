@@ -1,0 +1,36 @@
+{
+  "actions": [
+    {
+      "type": "register_transaction",
+      "transaction": {
+        "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+        "locidx": 0,
+        "filename": "transactions/2022/04/01/2022-04-01T08:46:21.833352+00:00/transaction.json",
+        "SHA-512": "35ea6a5f5d4cbe1c1a974e5d8a27a58d2081452392e36de06127550f714e40ebef2f3b20e945bcfc403a5eec8301f69be5cb32c23a60e4d9be693cce49d762c3"
+      },
+      "locations": [
+        {
+          "locidx": 0,
+          "filename": "."
+        },
+        {
+          "locidx": 0,
+          "filename": "transactions/2022/04/01/2022-04-01T08:46:21.833352+00:00"
+        }
+      ]
+    }
+  ],
+  "pyom_version": 1,
+  "pyom_block_magic": "bc1ae75a-7137-11ec-ab3c-2b53f48d31de",
+  "idx": 2,
+  "owner": {
+    "gpg": "DC897BAB536066ACB664154C13D60343191E2BCB"
+  },
+  "prev": {
+    "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+    "locidx": 0,
+    "filename": "blockchain/00/00/00/00/00/00/00/0000000000000001.json",
+    "SHA-512": "9621ccd5d27263caf395c38c5c98f564ed1d8b149c42ef8f395c383f053d8de85d53f70c9599ecd2476265bb167f08e3a480df42893f55ec54ebf782eef12445"
+  },
+  "timestamp": "2022-04-01T08:46:21.888326+00:00"
+}
