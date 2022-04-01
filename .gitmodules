@@ -1,0 +1,6 @@
+[submodule "smart_contracts/pyomcore"]
+	path = smart_contracts/pyomcore
+	url = https://github.com/toddfratello/pyomcore.git
+[submodule "smart_contracts/pyomcash"]
+	path = smart_contracts/pyomcash
+	url = https://github.com/toddfratello/pyomcash.git
