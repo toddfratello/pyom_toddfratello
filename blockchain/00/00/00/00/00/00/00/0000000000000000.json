@@ -1,0 +1,30 @@
+{
+  "actions": [
+    {
+      "type": "import_gpg_key",
+      "gpg": "9C5715EAF2D6C30C13F4DD41665D9467EB249E98",
+      "keyfile": {
+        "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+        "locidx": 0,
+        "filename": "public.key",
+        "SHA-512": "e722da24f49c596a54b1e56993b7909e57f93e1db8a9d4c3051dc1d40d554d303933301ff3434bde3620e77cd201710523d43d5239c0ca784a6fdd185797575a"
+      },
+      "git_remote_urls": {
+        "origin": "git@github.com:toddfratello/pyom_toddfratello.git"
+      }
+    }
+  ],
+  "pyom_version": 1,
+  "pyom_block_magic": "bc1ae75a-7137-11ec-ab3c-2b53f48d31de",
+  "idx": 0,
+  "owner": {
+    "gpg": "9C5715EAF2D6C30C13F4DD41665D9467EB249E98"
+  },
+  "prev": {
+    "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+    "locidx": 0,
+    "filename": "public.key",
+    "SHA-512": "e722da24f49c596a54b1e56993b7909e57f93e1db8a9d4c3051dc1d40d554d303933301ff3434bde3620e77cd201710523d43d5239c0ca784a6fdd185797575a"
+  },
+  "timestamp": "2022-04-01T08:29:51.934076+00:00"
+}
